@@ -12,8 +12,13 @@
              }*/ //La mejor forma y la correcta.
 
             //foreach sirve para ahcer listas de elementos
+           /* int i = 1;
+            Console.WriteLine(i++);
+            Console.WriteLine(i);
+            Console.WriteLine(++i);
+            Console.WriteLine(i);
+           */
 
-          
 
 
         }
